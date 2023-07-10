@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Twinkle Stars</string>
+    <string name="title_activity_main">Twinkle Stars</string>
+    <string name="package_name">org.twinkle.stars.app</string>
+    <string name="custom_url_scheme">org.twinkle.stars.app</string>
+</resources>
